@@ -23,3 +23,7 @@ section {
 #contact {
    background-color: #f3f4f5;
 }
+
+#gallery .row > * {
+   padding: 0;
+}
